@@ -6,5 +6,5 @@
 
 int main() {
 	printf("hey how are you");
-	return 0;
+	return 0;	
 }
